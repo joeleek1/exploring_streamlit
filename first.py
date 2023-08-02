@@ -2,7 +2,7 @@ import streamlit as st
 
 def main():
     # Title
-    st.title('My Streamlit App')
+    st.title('Testin Ui')
 
     # Text
     st.text('Welcome to the application!')
